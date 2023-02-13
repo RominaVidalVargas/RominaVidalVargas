@@ -2,7 +2,7 @@
 <h1 align="center">Hola, mi nombre es Romina Vidal</h1>
 <h3 align="center">Me identifico como alguien que disfruta del aprendizaje continuo y enseñanza a pares.</h3><hr>
 
-- 🔭 Actualmente estoy trabajando en **LabNote** junto a (Catalina Ordenes) [https://github.com/catalinaordenes]
+- 🔭 Actualmente estoy trabajando en **LabNote** junto a Catalina Ordenes [https://github.com/catalinaordenes]
 
 - 🌱 Actualmente estoy aprendiendo **React**
 
